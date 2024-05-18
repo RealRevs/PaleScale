@@ -11,7 +11,7 @@
 
 ## About The Project
 
-The PaleScale Project is dedicated to developing innovative and user-friendly tools for enhancing the experience on popular communication platforms like Discord, Slack, and Telegram. Our mission is to create seamless integrations and powerful utilities that empower users to manage their communities, streamline their workflows, and engage more effectively.
+The PaleScale Project is dedicated to developing innovative and user-friendly tools for enhancing the experience on popular communication platforms like Discord. Our mission is to create seamless integrations and powerful utilities that empower users to manage their communities, streamline their workflows, and engage more effectively.
 
 Check `Releases` to see current tools.
 
