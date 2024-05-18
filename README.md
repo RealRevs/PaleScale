@@ -4,8 +4,6 @@
 
   <p align="center">
     Welcome to the PaleScale project. PaleScale is made by a group of coders to help you with tools.
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>What is PaleScale »</strong></a>
   </p>
 </div>
 
@@ -37,7 +35,7 @@ _PaleScale Runner must be used under educational purposes, or with proper consen
 
 * PaleScale Hub
    ```sh
-   The PaleScale hub found in PaleScale Runner is where you can find official links / downloads to PaleScale Downloads.
+   The PaleScale hub found in PaleScale Hub is where you can find official links / downloads to PaleScale Downloads.
    ```
 * PaleScale Customs
    ```sh
